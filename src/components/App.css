@@ -1,0 +1,32 @@
+li {
+    list-style-type: none;
+}
+
+i {
+    color: grey;
+}
+.button-done {
+   width: 82.275px
+}
+
+p {
+    font-size: 1.5rem;
+    height: 50px;
+    display: table-cell;
+    vertical-align: middle;
+    margin-bottom: 0;
+}
+
+.container-size{
+    max-width: 650px;
+}
+
+.check-box {
+    display: table-cell;
+    vertical-align: middle;
+    height: 52px;
+}
+
+.carets {
+    width: 16px;
+}
